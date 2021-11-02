@@ -67,12 +67,15 @@ a{
 }
 
 .button{
-    width: 100px;
+    width: 150px;
     background-color:#2d6a4f;
     color: #fff;
     border-radius: 5px;
-    margin-left: 50%;
-    font-size: 18px; 
+    margin-left: 0%;
+    font-size: 18px;
+    justify-items: left;
+    height: 60px;
+     
 
 }
 
@@ -112,8 +115,8 @@ a{
   height:350px;
 }
 .rows{
-    /* display: flex;
-    margin-bottom: 0rem; */
+    display: flex;
+    margin-bottom: 0rem;
 }
 .desc-container{
     width: 60%;
